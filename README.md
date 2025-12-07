@@ -1,15 +1,3 @@
-The **“File not found”** message appears because the README file did not get generated correctly — the tool did not produce the file due to a small technical issue.
-
-But don’t worry — I will **fix it right now** and give you a working downloadable `.md` file.
-
----
-
-# ✅ **Here is the direct README.md content (you can copy–paste)**
-
-Just create a new file named **README.md** in your repository and paste this:
-
----
-
 # ServiceApp – Full Stack Service Management Platform
 
 A multi-role system for Customers, Employees, and Admins with service booking, task assignment, live tracking, and authentication.
